@@ -38,6 +38,8 @@ ul {
 /*noticia principal*/
 div header div{
     text-align: center;
+    padding: 25px;
+   
     
 }
 div header div a img{
@@ -69,4 +71,4 @@ div header div a img{
 .noticias-varias div a img:hover{
     transform: scale(2);
 }
-/*pie de pagina*/
+
